@@ -1,4 +1,5 @@
 import Header from "./components/Header"
+import SectionHero from "./components/SectionHero"
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
 
       <Header />
+      <SectionHero/>
 
     </>
   )
