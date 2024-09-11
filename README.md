@@ -1,8 +1,15 @@
-# React + Vite
+<h1 align="center">Land Page Itau</h1>
+ 
+Este projeto é uma landing page do Itaú, desenvolvida utilizando React e Styled Components. O objetivo da página é criar uma interface visualmente atraente para divulgar os serviços do banco, com foco em performance e uma experiência de usuário otimizada.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2 align="center">Preview</h2>
 
-Currently, two official plugins are available:
+<div align="center">
+ <img src = 'https://github.com/GustavoMoraes22/Land-Page-Itau/blob/main/src/assets/home.png'>
+  <img src = 'https://github.com/GustavoMoraes22/Land-Page-Itau/blob/main/src/assets/services.png'>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Tecnologias Utilizadas
++ React: Biblioteca JavaScript para construção de interfaces de usuário.
++ Styled Components: Biblioteca para estilização de componentes React utilizando JavaScript e CSS.
+
